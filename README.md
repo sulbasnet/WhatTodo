@@ -1,7 +1,5 @@
 # WhatTodo - Flutter Todo App
 
-![WhatTodo Logo]()
-
 WhatTodo is a simple and intuitive to-do application built using Flutter. It helps users organize tasks, set priorities, and manage their daily activities efficiently.
 
 ## Features
