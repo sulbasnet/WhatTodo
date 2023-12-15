@@ -43,7 +43,3 @@ To run this app locally, follow these steps:
 
 Contributions are welcome! If you'd like to enhance the app or add new features, feel free to fork the repository and submit a pull request. Issues can also be raised in the repository for discussion.
 
-## Acknowledgments
-
-- **Flutter:** The framework used for building the application.
-- **[Library/Dependency Name]:** Acknowledgment for any third-party libraries or dependencies used.
